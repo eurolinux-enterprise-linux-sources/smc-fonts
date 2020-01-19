@@ -1,0 +1,36 @@
+diff -rup malayalam-fonts-5.0.1/Kalyani/Kalyani.sfd malayalam-fonts-5.0.1_mod/Kalyani/Kalyani.sfd
+--- malayalam-fonts-5.0.1/Kalyani/Kalyani.sfd	2012-03-10 12:22:09.000000000 +0530
++++ malayalam-fonts-5.0.1_mod/Kalyani/Kalyani.sfd	2012-04-13 14:03:26.055482171 +0530
+@@ -26,7 +26,7 @@ TTFWeight: 400
+ TTFWidth: 5
+ LineGap: 0
+ VLineGap: 0
+-Panose: 0 0 4 0 0 0 0 0 0 0
++Panose: 2 11 4 0 0 0 0 0 0 0
+ OS2TypoAscent: -58
+ OS2TypoAOffset: 1
+ OS2TypoDescent: -269
+diff -rup malayalam-fonts-5.0.1/Meera/Meera.sfd malayalam-fonts-5.0.1_mod/Meera/Meera.sfd
+--- malayalam-fonts-5.0.1/Meera/Meera.sfd	2012-03-10 17:48:30.000000000 +0530
++++ malayalam-fonts-5.0.1_mod/Meera/Meera.sfd	2012-04-13 13:45:51.912230709 +0530
+@@ -26,7 +26,7 @@ TTFWeight: 400
+ TTFWidth: 5
+ LineGap: 0
+ VLineGap: 0
+-Panose: 2 0 6 3 0 0 0 0 0 0
++Panose: 2 11 6 3 0 0 0 0 0 0
+ OS2TypoAscent: 0
+ OS2TypoAOffset: 1
+ OS2TypoDescent: 0
+diff -rup malayalam-fonts-5.0.1/RaghuMalayalamSans/RaghuMalayalamSans.sfd malayalam-fonts-5.0.1_mod/RaghuMalayalamSans/RaghuMalayalamSans.sfd
+--- malayalam-fonts-5.0.1/RaghuMalayalamSans/RaghuMalayalamSans.sfd	2012-03-10 12:15:24.000000000 +0530
++++ malayalam-fonts-5.0.1_mod/RaghuMalayalamSans/RaghuMalayalamSans.sfd	2012-04-13 14:03:12.689430273 +0530
+@@ -25,7 +25,7 @@ TTFWeight: 400
+ TTFWidth: 5
+ LineGap: 0
+ VLineGap: 0
+-Panose: 0 0 4 0 0 0 0 0 0 0
++Panose: 2 11 4 0 0 0 0 0 0 0
+ OS2TypoAscent: -118
+ OS2TypoAOffset: 1
+ OS2TypoDescent: -550
