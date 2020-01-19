@@ -1,0 +1,31 @@
+diff --git a/Meera/Meera.sfd b/Meera/Meera.sfd
+index c4d4514..3145221 100644
+--- a/Meera/Meera.sfd
++++ b/Meera/Meera.sfd
+@@ -55803,9 +55803,9 @@ SplineSet
+  767 -422 767 -422 767 -360 c 0,60,61
+ EndSplineSet
+ Validated: 1
+-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" l3 l4
++Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3xx l3
+ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx l3
+-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l4 l3
++Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" l3 l4
+ EndChar
+ 
+ StartChar: l3l3u1
+diff --git a/Rachana/Rachana.sfd b/Rachana/Rachana.sfd
+index 585d0b1..bae30c0 100644
+--- a/Rachana/Rachana.sfd
++++ b/Rachana/Rachana.sfd
+@@ -63363,8 +63363,9 @@ SplineSet
+  782 -566 782 -566 820 -522 c 1,95,96
+  856 -478 856 -478 856 -416 c 0,83,84
+ EndSplineSet
+-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx l3
++Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx l3
+ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" l3 l4
++Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx l3
+ EndChar
+ 
+ StartChar: l3l3u1
